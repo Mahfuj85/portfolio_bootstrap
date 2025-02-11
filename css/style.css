@@ -82,6 +82,10 @@ body{
     font-size: 14px;
     font-weight: 600;
 }
+.btn-1:hover{
+    background: #EEEEEE;
+    color: #00ADB5;
+}
 .btn-2{
     background: #393E46;
     padding: 3px 16px;
@@ -90,6 +94,10 @@ body{
     color: #EEEEEE;
     font-size: 14px;
     font-weight: 600;
+}
+.btn-2:hover{
+    background: #EEEEEE;
+    color: #00ADB5;
 }
 .down-arrow{
     margin-top: 154px;
@@ -100,6 +108,9 @@ body{
     border: none;
     width: 60px;
     height: 60px;
+}
+.down-arrow:hover{
+    color: #00ADB5;
 }
 
 /* ABOUT SECTION  */
